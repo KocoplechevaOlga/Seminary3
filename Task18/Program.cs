@@ -15,4 +15,4 @@ string Range (int q)
 }
 
 string xy = Range (Q);
-Console.WriteLine(xy);
+Console.WriteLine($"Допустимый диапазон координат для {Q} четверти: {xy}");
